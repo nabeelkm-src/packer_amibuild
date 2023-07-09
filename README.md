@@ -1,0 +1,3 @@
+# packer_amibuild
+
+CREATE AWS CUSTOM AMI USING PACKER BUILD
